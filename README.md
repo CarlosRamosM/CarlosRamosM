@@ -42,6 +42,11 @@ He liderado equipos, asegurando que los miembros del equipo cuenten con las comp
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+### Cloud Computing
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
 ### Mensajería y Streaming
 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
@@ -53,6 +58,12 @@ He liderado equipos, asegurando que los miembros del equipo cuenten con las comp
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?style=flat&logo=new-relic&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+### Pruebas y Rendimiento
+
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apache-jmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VisualVM](https://img.shields.io/badge/-VisualVM-2C2255?style=flat&logo=java&logoColor=white)
 
 ## 📊 Estadísticas de GitHub
 
