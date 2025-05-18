@@ -26,17 +26,33 @@ He liderado equipos, asegurando que los miembros del equipo cuenten con las comp
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
 
 ### Bases de Datos
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 
 ### Herramientas y DevOps
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Mensajería y Streaming
+
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
+### Monitoreo y Observabilidad
+
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?style=flat&logo=new-relic&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ## 📊 Estadísticas de GitHub
 
